@@ -13,8 +13,6 @@
 
 ### 🧠 Studying in this moment:
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=009ACD)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=87CEFA)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white);
 
 ---
@@ -25,6 +23,8 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=48D1CC)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=009ACD)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=87CEFA)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=bc1142)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758f)&nbsp;
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=3CB371&textColor=0D1117)&nbsp;
